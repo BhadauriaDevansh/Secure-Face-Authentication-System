@@ -26,7 +26,6 @@ This project implements a cutting-edge face authentication system using Java, Op
 2. Log in securely using facial recognition.
 
 ## Main Classes and Logic
-
 ### MainApp.java
 - Acts as the entry point of the application.
 - Initializes the UI components and sets up the main interface for user interaction.
